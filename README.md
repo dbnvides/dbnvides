@@ -1,8 +1,14 @@
 ### Opa! Eu sou o Dionisio 👋
 
-- 🔭 Eu em aprendizado na area Front-end
-- 🌱 Estudando Javascript, HTML, CSS, visando o framework React.js
-- 🤔 Em busca de oportunidade para atuar na area
+- Atualmente estou na área de Front-End onde estou gostando bastante, fazer um projeto e ir vendo-o ganhando forma em tempo real é algo satisfatório,
+  onde todo dia aprendo algo novo e isso motiva muito, estou com bastante energia e curiosidade nessa área e ansioso pelas experiências que virão.
+
+<hr />
+<h3>Teconologias</h3>
+- 🔭 Estou estudando atualmente HTML, CSS, JavaScript. O framework que vi e gostei é o React.js, então logo mais vou estar focando nele. 
+
+
+<hr />
 
 <div>
   <a href="https://github.com/dbnvides">
