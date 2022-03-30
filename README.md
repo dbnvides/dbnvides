@@ -1,7 +1,7 @@
 ### Opa! Eu sou o Dionisio 👋
 
-- Atualmente estou na área de Front-End onde estou gostando bastante. Fazer um projeto e ir vendo-o ganhando forma em tempo real é algo satisfatório,
-  onde todo dia aprendo algo novo e isso motiva muito, estou com bastante energia e curiosidade nessa área e ansioso pelas experiências que virão.
+- Atualmente estou na área de Front-End onde estou gostando bastante. Fazer um projeto e ir vendo-o ganhando forma em tempo real é algo satisfatório
+  e a cada dia aprendendo algo novo, estou com bastante energia e curiosidade nessa área e ansioso pelas experiências que virão.
 
 <hr />
 <h3>Teconologias</h3>
