@@ -5,7 +5,7 @@
 
 <hr />
 <h3>Teconologias</h3>
-- 🔭 Estou estudando atualmente HTML, CSS, JavaScript. O framework que vi e gostei é o React.js, então logo mais vou estar focando nele. 
+- 🔭 Estou estudando atualmente HTML, CSS, JavaScript.
 
 
 <hr />
