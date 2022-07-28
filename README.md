@@ -1,7 +1,9 @@
 ### Opa! Eu sou o Dionisio 👋
 
-- Atualmente estou na área de Front-End onde estou gostando bastante. Fazer um projeto e ir vendo-o ganhando forma em tempo real é algo satisfatório
+- Atualmente estou estudando Front-End onde estou gostando bastante. Fazer um projeto e ir vendo-o ganhando forma em tempo real é algo satisfatório
   e a cada dia aprendendo algo novo, estou com bastante energia e curiosidade nessa área e ansioso pelas experiências que virão.
+  Sou Estudante em formação de Desenvolvimento Web Full Stack na Kenzie Academy Brasil, bastante dedicado e ansioso para aprender cada vez mais.
+  
 
 <hr />
 <h3>Teconologias</h3>
