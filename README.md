@@ -7,7 +7,7 @@
 
 <hr />
 <h3>Teconologias</h3>
-- 🔭 Estou estudando atualmente HTML, CSS, JavaScript.
+- 🔭 Estou estudando atualmente HTML, CSS, JavaScript, React.js.
 
 
 <hr />
