@@ -7,7 +7,7 @@
 
 <hr />
 <h3>Teconologias</h3>
-- 🔭 HTML, Css, JavaScript, React.js.
+- 🔭 HTML, Css, JavaScript, TypeScript e React.js.
 - Estudando mais sobre react e bibliotecas.
 
 
