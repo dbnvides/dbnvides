@@ -6,5 +6,5 @@
 
 <hr />
 <h3>Teconologias</h3>
-- 🔭 HTML, Css, JavaScript, TypeScript e React.js.
-- NodeJs, ExpressJs
+- 🔭 Front End: HTML, Css, JavaScript, TypeScript e React.js.
+- 🔭 Back End: NodeJs, ExpressJs, Pyhton, Django, Django RestFramework.
