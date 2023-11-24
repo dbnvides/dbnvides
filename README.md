@@ -6,7 +6,7 @@ Atualmente estou buscando aprimorar meus conhecimentos em frontend, estudando a 
 
 <hr />
 <h3>Teconologias</h3>
-🔭 Front End: HTML, Css, JavaScript, TypeScript, React.js, NextJs.
+🔭 Front End: HTML5, CSS3, Tailwind, Styled-components, JavaScript, TypeScript, React.js, NextJs.
 
 
 🔭 Back End: NodeJs, ExpressJs, Pyhton, Django, Django RestFramework, FastApi.
