@@ -1,8 +1,8 @@
 ### Opa! Eu sou o Dionisio 👋
 
-- Tenho 26 anos, moro no interior de São Paulo, sou desenvolvedor web fullstack, atualmente estou trabalhando com python para desenvolvimentos de softwares fullstack utilizando teconlogias de interface(Tkinter, CustomTk, Kivy), voltadado para rastreabilidade com integração de sistemas.
-Estou buscando aprimorar meus conhecimentos em frontend, realizando cursos e projetos na medida do possível.
-Sinta-se a vontade para olhar meu perfil, fazer conexão com linkedin, trocar uma ideia.
+Tenho 26 anos e moro em São José dos Campos. Recentemente, trabalhei em uma empresa voltada para o setor industrial, onde desenvolvi soluções que integravam a comunicação entre computadores e máquinas, utilizando principalmente Python. Além disso, estou sempre buscando novas formas de implementar tecnologias inovadoras em meus projetos.
+
+Possuo experiência em desenvolvimento web, incluindo habilidades em HTML/CSS, JavaScript/TypeScript, Git/GitHub e React.js. Trabalho muito bem em equipe, colaborando ativamente e oferecendo suporte sempre que possível. Quando necessário, também solicito ajuda, acreditando no aprendizado contínuo para a melhoria do trabalho em equipe.
   
 
 <hr />
