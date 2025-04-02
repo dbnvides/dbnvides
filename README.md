@@ -7,7 +7,7 @@ Minha principal habilidade é criar aplicações web robustas e escaláveis, foc
 
 Atuo bem em equipe, colaborando ativamente e compartilhando conhecimento, além de estar sempre aberto a novas oportunidades e desafios.
 
-🚀 Tecnologias
+🚀 Tecnologias <hr>
 💡 Frontend: HTML5, CSS3, Tailwind CSS, Styled Components, JavaScript, TypeScript, React.js, Next.js
 
 🛠 Backend: Node.js, Express.js, Python, Django, Django Rest Framework, FastAPI
