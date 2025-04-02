@@ -1,13 +1,15 @@
-### Opa! Eu sou o Dionisio 👋
-
-Tenho 26 anos e moro em São José dos Campos. Recentemente, trabalhei em uma empresa voltada para o setor industrial, onde desenvolvi soluções que integravam a comunicação entre computadores e máquinas, utilizando principalmente Python. Além disso, estou sempre buscando novas formas de implementar tecnologias inovadoras em meus projetos.
-
-Possuo experiência em desenvolvimento web, incluindo habilidades em HTML/CSS, JavaScript/TypeScript, Git/GitHub e React.js. Trabalho muito bem em equipe, colaborando ativamente e oferecendo suporte sempre que possível. Quando necessário, também solicito ajuda, acreditando no aprendizado contínuo para a melhoria do trabalho em equipe.
-  
-
-<hr />
-<h3>Teconologias</h3>
-🔭 Front End: HTML5, CSS3, Tailwind, Styled-components, JavaScript, TypeScript, React.js, NextJs.
+#########Opa! Eu sou o Dionísio 👋############
 
 
-🔭 Back End: NodeJs, ExpressJs, Pyhton, Django, Django RestFramework, FastApi.
+Sou um desenvolvedor fullstack apaixonado por transformar desafios em soluções eficientes e inovadoras. Tenho 26 anos e moro em São José dos Campos. Minha experiência inclui o desenvolvimento de sistemas que integram comunicação entre máquinas e computadores no setor industrial, utilizando Python para automação e otimização de processos.
+
+Minha principal habilidade é criar aplicações web robustas e escaláveis, focando na experiência do usuário e na eficiência do código. Possuo experiência com tecnologias modernas de frontend e backend, sempre buscando aprender e aprimorar minhas habilidades.
+
+Atuo bem em equipe, colaborando ativamente e compartilhando conhecimento, além de estar sempre aberto a novas oportunidades e desafios.
+
+🚀 Tecnologias
+💡 Frontend: HTML5, CSS3, Tailwind CSS, Styled Components, JavaScript, TypeScript, React.js, Next.js
+
+🛠 Backend: Node.js, Express.js, Python, Django, Django Rest Framework, FastAPI
+
+Se você tem um projeto interessante ou uma oportunidade desafiadora, ficarei feliz em conversar! 😊
