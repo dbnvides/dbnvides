@@ -6,8 +6,8 @@ Sou um desenvolvedor fullstack apaixonado por transformar desafios em soluções
 Minha principal habilidade é criar aplicações web robustas e escaláveis, focando na experiência do usuário e na eficiência do código. Possuo experiência com tecnologias modernas de frontend e backend, sempre buscando aprender e aprimorar minhas habilidades.
 
 Atuo bem em equipe, colaborando ativamente e compartilhando conhecimento, além de estar sempre aberto a novas oportunidades e desafios.
-
-🚀 Tecnologias <hr>
+ <hr>
+🚀 Tecnologias<br>
 💡 Frontend: HTML5, CSS3, Tailwind CSS, Styled Components, JavaScript, TypeScript, React.js, Next.js
 
 🛠 Backend: Node.js, Express.js, Python, Django, Django Rest Framework, FastAPI
