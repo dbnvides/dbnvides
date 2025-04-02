@@ -1,5 +1,5 @@
 <h1>Opa! Eu sou o Dionísio 👋</h1>
-<hr>
+
 
 Sou um desenvolvedor fullstack apaixonado por transformar desafios em soluções eficientes e inovadoras. Tenho 26 anos e moro em São José dos Campos. Minha experiência inclui o desenvolvimento de sistemas que integram comunicação entre máquinas e computadores no setor industrial, utilizando Python para automação e otimização de processos.
 
